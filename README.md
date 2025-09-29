@@ -14,11 +14,6 @@ This project uses the **LaMini-flan-T5-783M** model with **Hugging Face Transfor
 
 ---
 
-## 🌐 Demo
-[Ideas_Generator](https://7cb95c4b3959cf1952.gradio.live/)
-
----
-
 ## 🛠️ Modules Used
 - [Transformers](https://huggingface.co/transformers/)  
 - [Gradio](https://gradio.app/)  
